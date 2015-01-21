@@ -3,6 +3,8 @@ A MUD users can play in Twitch chat. It lets users bar hop, buy drinks, play gam
 
 See this article for an explanation of how the game works: http://techaholica.com/2015/01/10/drunk-of-legends-explained/
 
+ Also note that there is some code in here which takes into account a second bot called TechaDrunk. This is another bot you can find on my github account. It is an account which plays this MUD. If you don't have an account playing the game, you can ignore this code. If you want your own bot to play the game, just do a search for TechaDrunk and replace it with your bot's name.
+ 
 To install using MIRC, copy the contents to your %APPDATA%/mirc directory. Replace the directory #Techaholica with your own channel name. If you are going to run this in more than one channel, you can copy the contents to the different #ChannelName directories under %APPDATA%/mirc. 
 
 To run, in MIRC Load the TechaMud.ini file. You can use the TechaMud.config file to change various settings about the MUD.
